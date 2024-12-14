@@ -1,0 +1,72 @@
+body {
+    background-color: peachpuff;
+    fon-family: "helvetica", sans-serif;
+
+}
+h1{
+    color: gray;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+
+}
+h2{
+    font-family:'times new roman', 'Times New Roman', Times, serif;
+    border-style: dashed;
+    border-radius: 3%;
+    border-color: darkblue;
+    padding: 2px;
+}
+h3{
+    font-style:italic;
+
+}
+a{
+    color: slateblue;
+}
+
+nav ul {
+    background-color: sandybrown;
+    border-style: solid;
+    border-color:seashell;
+    border-width: 2px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+nav ul li{
+    list-style-type: none;
+    display: inline;
+    margin-right:10px;
+    margin-left:10px;
+    color:papayawhip;
+
+}
+
+nav ul li a{
+    text-decoration:none;
+    color:olive;
+
+}
+
+table , th, td {
+    border: 1px solid honeydew;
+    border-collapse: collapse;
+    margin: 1px;
+}
+
+tr{
+    background-color: palegoldenrod;
+}
+
+th,td{
+    vertical-align: top;
+    padding: 5px;
+    text-align: left;
+}
+
+th{
+    color:purple;
+
+}
+td{
+    color:purple;
+}
